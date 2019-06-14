@@ -1,0 +1,12 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "custom-title":
+    template: "<%= fileName %> <% if (projectName) { %> [<%= projectName %>] <% } %>"
+  editor:
+    fontSize: 13
+  "exception-reporting":
+    userId: "c4e9bd9a-5250-4fb6-a5e9-db1d0c5e86da"
+  "sync-settings":
+    gistId: "cloudSettings"
+    personalAccessToken: "e34ca356f939d5ac2f46c08632e726f3d0ed7262"

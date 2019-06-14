@@ -1,0 +1,16 @@
+packages: [
+  "angular-snippets"
+  "atom-beautify"
+  "atom-ide-ui"
+  "atom-nodejs-snippets"
+  "atom-typescript"
+  "autocomplete-modules"
+  "custom-title"
+  "emmet"
+  "es6-javascript"
+  "expose"
+  "file-icons"
+  "highlight-selected"
+  "linter"
+  "package-sync"  
+]
