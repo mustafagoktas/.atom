@@ -10,7 +10,6 @@ packages: [
   "es6-javascript"
   "expose"
   "file-icons"
-  "highlight-selected"
-  "linter"
-  "package-sync"  
+  "highlight-selected"  
+  "package-sync"
 ]
